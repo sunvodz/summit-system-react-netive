@@ -1,9 +1,9 @@
 # summit-system-react-netive
 
 
-
-`npm install expo-cli --global`
-`npm install -g yarn`
+ ```
+npm install expo-cli --global
+npm install -g yarn
 expo init summit-system-react-netive
 :blank
 :summit-system
@@ -26,4 +26,4 @@ var sharedBlacklist = [
   /heapCapture\/bundle\.js/,
   /.*\/__tests__\/.*/
 ];
-`
+ ```
