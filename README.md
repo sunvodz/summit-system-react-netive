@@ -2,8 +2,8 @@
 
 
 
-`npm install expo-cli --global
-npm install -g yarn
+`npm install expo-cli --global`
+`npm install -g yarn`
 expo init summit-system-react-netive
 :blank
 :summit-system
