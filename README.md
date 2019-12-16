@@ -1,5 +1,10 @@
 # summit-system-react-netive
 
+```
+- javascript
+- CSS
+- HTML
+```
 
  ```
 npm install expo-cli --global
